@@ -10,9 +10,6 @@
     </head>
     <body>
         <div class="page-header">
-            {% if user.is_authenticated %}
-                <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            {% endif %}
             <h1><a href="/">Deungma</a></h1>
         </div>
         <div class="content container">
@@ -23,5 +20,19 @@
                 </div>
             </div>
         </div>
+
+    <div class="footer">
+        <!--
+        <figure class="youtube-player-figure">
+            <iframe class="youtube-player-iframe" src="https://www.youtube.com/embed/videoseries?list=PL0tCkykDZsHSnO2Hvld8g4-4-MwTtOq0Q&amp;autoplay=1?enablejsapi=1&rel=0&showinfo=0&controls=0" frameborder="0"></iframe>
+        </figure>
+        -->
+        <div class="spotify-player">
+
+        <iframe src="https://open.spotify.com/embed/user/nagyszblcs2/playlist/78SIEgdS4P1FXrxG6x7jdO" width="300" height="235" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+        </div>
+    </div>
     </body>
 </html>
+
