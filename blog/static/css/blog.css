@@ -180,3 +180,15 @@ a:hover
 {
     float:right;
 }
+
+.post-image
+{
+    width:500px;
+}
+
+.post-date {
+    color: #828282;
+    font-family: 'Papyrus', cursive;
+    font-size:15px;
+    margin-bottom:15px;
+}

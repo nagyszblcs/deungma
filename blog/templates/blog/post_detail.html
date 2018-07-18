@@ -9,10 +9,10 @@
         {% endif %}
         <h1>{{ post.title }}</h1>
         <p>{{ post.text|linebreaksbr }}</p>
-        <div class="date">
+        <div class="post-date">
             {{ post.published_date }}
         </div>
-    <div><img src="{{ post.image.url }}"></div>
+    <div><img class="post-image" src="{{ post.image.url }}"></div>
 
     </div>
 {% endblock %}
