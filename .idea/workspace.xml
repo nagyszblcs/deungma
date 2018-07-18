@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a8e0779-16c1-48db-b5ad-4f4e9e8a56fb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/08115740.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/1374.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/152CBC05-D750-45F7-BA70-BDBF082196E7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/160919_Smart_Cities_2_1600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/1751363-512_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2639896-512_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/29542663_1979487795712773_4076222650574972272_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/31453980_1991197400953163_3497496335622340608_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/33403113_10156034845060873_4892112310153248768_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/89759.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/AAK-02-venstre-70-store.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/aa7c1841-1798-4a47-9f12-34bf68708e25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/butthurt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/chair.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fightgclub.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/grammar.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -99,20 +83,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="post_edit.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_edit.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -155,7 +139,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/blog/templates/post_list.html" />
         <option value="$PROJECT_DIR$/blog/static/blog.css" />
         <option value="$PROJECT_DIR$/requirements.txt" />
@@ -171,6 +154,7 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -201,35 +185,6 @@
             <path>
               <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
               <item name="deungma" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deungma" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deungma" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deungma" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deungma" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deungma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deungma" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -512,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -636,6 +584,13 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
